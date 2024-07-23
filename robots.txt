@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://derlogus.github.io/sitemap
+Sitemap: https://derlogus.github.io/app/sitemap
+Sitemap: https://derlogus.github.io/assets/sitemap
+Sitemap: https://derlogus.github.io/css/sitemap
+Sitemap: https://derlogus.github.io/includes/sitemap
+Sitemap: https://derlogus.github.io/item/sitemap
+Sitemap: https://derlogus.github.io/src/sitemap
